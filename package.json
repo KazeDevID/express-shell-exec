@@ -1,6 +1,6 @@
 {
   "name": "express-shell-exec",
-  "version": "1.0.1",
+  "version": "1.0.1-fix",
   "description": "A lightweight module for executing shell commands in Express.js applications",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,14 @@
   ],
   "author": "KazeDevID",
   "license": "MIT",
+  "homepage": "https://github.com/KazeDevID/express-shell-exec/",
+  "bugs": {
+    "url": "https://github.com/KazeDevID/express-shell-exec/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KazeDevID/express-shell-exec.git"
+  },
   "dependencies": {
     "debug": "^4.3.4"
   },
