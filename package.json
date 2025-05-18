@@ -1,6 +1,6 @@
 {
   "name": "express-shell-exec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight module for executing shell commands in Express.js applications",
   "main": "index.js",
   "scripts": {
